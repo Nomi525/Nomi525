@@ -33,6 +33,10 @@ Talking about Personal Stuffs:
 
 💬 Ask me about anything, I am happy to help;
 
+Let’s Collaborate!
+------------------------------------------------------------------------------------------------
+
+I’m open to freelance opportunities and collaborations. If you have an interesting project or need help with backend systems, frontend development, or something more intersting, feel free to reach out!
 
 📍 How to Reach Me
 ------------------------------------------------------------------------------------------------
@@ -40,10 +44,7 @@ Talking about Personal Stuffs:
 - 📧 **Email:** [nomanmansuri525@gmail.com](nomanmansuri525@gmail.com)
 - 💼 **LinkedIn:** [Noman Mansuri](https://www.linkedin.com/in/nomanmansuri)
 
-Let’s Collaborate!
-------------------------------------------------------------------------------------------------
 
-I’m open to freelance opportunities and collaborations. If you have an interesting project or need help with backend systems, frontend development, or something more intersting, feel free to reach out!
 
 
 ## GitHub Stats
