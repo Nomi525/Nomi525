@@ -6,6 +6,7 @@ I’m a Mern Stack OR Senior Node.js Developer with 2.5+ years of experience in 
 
 
 🚀 Expertise
+
 Languages: JavaScript, TypeScript, (Beginner++ Level) - PHP, Python, Java 
 
 Frameworks & Environment: Node.js Nest Js, Next Js, React.js, Express.js,Redis, Socket.IO, Redux Toolkit, RTk Query,
