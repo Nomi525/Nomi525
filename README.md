@@ -6,6 +6,7 @@ I’m a Mern Stack OR Senior Node.js Developer with 2.5+ years of experience in 
 
 
 🚀 Expertise
+------------------------------------------------------------------------------------------------
 
 Languages: JavaScript, TypeScript, (Beginner++ Level) - PHP, Python, Java 
 
@@ -23,11 +24,25 @@ Cloud: AWS, Firebase
 CI/CD & Tools: Docker, Jenkins, Workbench, PGAdmin4, Postman, JIRA, Figma
 
 
+Talking about Personal Stuffs:
+------------------------------------------------------------------------------------------------
+
+👨🏽‍💻 I’m currently working on full stack javascript technologies.
+
+🌱 I’m currently learning Next Js, AWS, GraphQL and Docker, Kubernetes and working on Learning Ecommerce project (Personal Business App).
+
+💬 Ask me about anything, I am happy to help;
+
+
 📍 How to Reach Me
+------------------------------------------------------------------------------------------------
+
 - 📧 **Email:** [nomanmansuri525@gmail.com](nomanmansuri525@gmail.com)
 - 💼 **LinkedIn:** [Noman Mansuri](https://www.linkedin.com/in/nomanmansuri)
 
 Let’s Collaborate!
+------------------------------------------------------------------------------------------------
+
 I’m open to freelance opportunities and collaborations. If you have an interesting project or need help with backend systems, frontend development, or something more intersting, feel free to reach out!
 
 
